@@ -1,0 +1,14 @@
+.card_container {
+    display: flex;
+    line-break: auto;
+    justify-content: space-around;
+    /* line-break: 100px; */
+    padding: 50px 80px 50px 80px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+.card_container div {
+   /* margin: 10px; */
+   /* width: 381px; */
+   /* margin: 0 auto; */
+}

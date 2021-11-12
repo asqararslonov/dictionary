@@ -1,9 +1,10 @@
 import React from "react";
+import Post_con from "./Post_container/Post_con";
 
 export const Blog = () => {
   return (
     <div>
-      <h1>Blog</h1>
+      <Post_con/>
     </div>
   );
 };
